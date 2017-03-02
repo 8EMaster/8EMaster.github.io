@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<!--
+***********************
+Author: Robert
+Date: 02/03/17
+Desc: Example for 8E students
+***********************
+-->
+
+<html>
+
+<head>
+	<title> Group Example </title>
+</head>
+
+
+<body>
+	<h1> Creating Canada 1850 - 1890 </h1>
+	<h2> Group Example </h2>
+
+<img src=”http://chatt.hdsb.ca/~packerr/FOV1-0016730E/S14C4CCD8.0/130901_25730_0.gif?src=.PNG”>
+
+<h3> 20 Facts and Information </h3>
+<ol type=”1”>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+  <li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+  <li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+  <li> </li>
+</ol>
+</body>
+
+</html>
